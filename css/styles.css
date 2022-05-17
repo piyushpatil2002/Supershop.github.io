@@ -1,0 +1,194 @@
+body
+{
+  color: #000;
+  background-color: #E5E5E5;
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+  
+}
+a
+{
+  color: #fff;
+}
+a:hover
+{
+  text-decoration: none;
+  color: #fff;
+}
+
+ul > li > a > span{
+  font-size: 15px;
+}
+
+#options
+{
+  width: fit-content;
+  background-color: #fff;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.16);
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px  ;
+  
+}
+
+#Main_header
+{
+  color: #fff;
+  background-color: #801f1f;
+  border-radius: 0;
+  border: 0;
+  height: 120px;
+  margin-bottom: 0;
+}
+.navbar-brand h1
+{
+  margin: 15px;
+  margin-left: 0px;
+  line-height: 1;
+}
+
+.navbar-brand img
+{
+  margin-left: 240px;
+}
+
+.navbar-brand h4
+{
+  margin: 15px;
+  margin-left: 0px;
+  line-height: 1;
+}
+
+li a
+{
+  color: #000;
+  margin: 10px;
+  margin-right: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 2%;
+}
+li{
+  width: 20%;
+}
+li a:hover
+{
+  color: #000;
+}
+
+#Main-container
+{
+  background-color: #fff;
+  margin-top: 12%;
+  padding: 4%;
+  font-size: 1.2em;
+  border-radius: 23px;
+}
+
+#name,#vehicle,#contact
+{
+  margin-left: 10px;
+  font-size: 1.2em;
+}
+#mode, #payment-paid-now
+{
+  font-size: 1em;
+}
+
+#payment-paid
+{
+  margin-left: 5%;
+}
+
+#coustomer-vehicle-no, #vehicle-km-reading 
+{
+  margin-left: 20%;
+}
+
+#customer-no
+{
+  margin-top: 20px;
+}
+#Perticulars
+{
+  margin-top: 5%;
+  font-size: 1.4em;
+}
+hr
+{
+  border-top: 1px solid #000;
+}
+.item-name
+{
+  width: 70%;
+}
+.quantity
+{
+  width: 30%;
+}
+.price
+{
+  width: 20%;
+}
+#items
+{
+  width: 80%;
+}
+#qu
+{
+  width: 30%;
+}
+#total-amount
+{
+  margin-left: 705px;
+}
+#Payment-mode
+{
+  margin-top: 20px;
+}
+#paid-or-not
+{
+  
+  margin-left: 5%;
+}
+th , td
+{
+  padding: 10px;
+}
+
+
+#submit-button
+{
+  margin-left: 490px;
+  padding: 5px;
+  margin-top:20px;
+}
+
+.panel-footer 
+{
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+  color: #fff;
+}
+#hours,#Address
+{
+  line-height: 2;
+}
+
+#hours > span, #Address > span 
+{
+  font-size: 1.3em;
+}
+#add-footer-space
+{
+  margin-top: 200px;
+}
+
+#update-section
+{
+  margin-top: 20px;
+}
